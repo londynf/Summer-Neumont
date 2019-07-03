@@ -1,0 +1,57 @@
+.header {
+    text-align: center;
+
+}
+.Londyn {
+    border-radius: 25px;
+}
+h1 {
+    font-family: "Impact";
+    font-size: 75px;
+    color: white;
+    border: 5px solid white;
+    border-radius: 25px;
+}
+body {
+    background-image: url("WebsitePictures/waves.gif");
+    background-size: cover;
+}
+h2 {
+    color: white;
+    font-family: "Georgia";
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid white;
+    border-radius: 25px;
+}
+p {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid white;
+    border-radius: 25px;
+}
+h4 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+.Nav {
+    color: white;
+    text-align: center;
+
+}
+.footer {
+    border-radius: 100px;
+    border: 5px solid white;
+    margin: 0 auto;
+}

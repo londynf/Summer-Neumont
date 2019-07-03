@@ -1,0 +1,85 @@
+header {
+    padding: 30px;
+     background-color: teal;
+     
+     color: indianred; 
+}
+a {
+    color: salmon;
+    text-decoration: none;
+}
+.Nav {
+    color: burlywood;
+    
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+a:hover {
+    color: white;
+}
+.header {
+    color:teal;
+    background-color: burlywood;
+    img: url("/WebsitePictures/Londyn.JPG");
+    text-align: center;
+    font-size: 250%;
+    }
+    h1 {
+        color: teal;
+        background-color: burlywood;
+        text-align: center;
+    }
+    h2 {
+        background-color: teal;
+        color: burlywood;
+        font-size: 250%;
+        text-align: center;
+        width: 500px;
+        border-radius: 25px;
+        margin: 0 auto;
+    }
+    h3 {
+        background-color: burlywood;
+        color: teal;
+        border-radius: 25px;
+        text-align: center;
+        font-size: 250%;
+        
+    }
+
+article {
+    background-color: burlywood;
+    color: teal;
+    font-size: 200%;
+    font-family: georgia;
+ line-height: 200%;
+ text-align: center;
+}
+footer {
+    text-align: center;
+    background-color: burlywood;
+    color: teal;
+    border-radius: 25px;
+    width: 50%;
+    height: 10%;
+    padding: 5px;
+    margin: 0 auto;
+}
+.space {
+    background-color: teal;
+    padding: 25px;
+    
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
