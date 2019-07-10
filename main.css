@@ -1,5 +1,5 @@
 header {
-   padding: 30px;
+   padding: 2%;
     background-color: teal;
     
     color: indianred; 
@@ -19,15 +19,14 @@ header {
     }
 body {
     font-family: "Trebuchet MS";
-    background-color:;
 }
 h2 {
     background-color: teal;
     color: burlywood;
     font-size: 250%;
     text-align: center;
-    width: 500px;
-    border-radius: 25px;
+    width: 50%;
+    border-radius: 700%;
     margin: 0 auto;
 }
 h3 {
@@ -35,45 +34,45 @@ h3 {
     color: burlywood;
     font-size: 150%;
     text-align: center;
-    width: 500px;
+    width: 100%;
     margin: 0 auto;
-    border-radius: 25px;
+    border-radius: 20%;
 }
 .paragraph {
     background-color: burlywood;
     color: teal;
-    border-radius: 25px;
+    border-radius: 25%;
     text-align: center;
-    padding: 20px; 
+    padding: 2%; 
 
 }
 .paragraph1 {
     background-color: burlywood;
     color: teal;
-    border-radius: 25px;
+    border-radius: 25%;
     text-align: center;
-    padding: 20px; 
+    padding: 20%; 
 
 }
 footer {
     text-align: center;
     background-color: burlywood;
     color: teal;
-    border-radius: 25px;
+    border-radius: 25%;
     width: 50%;
     height: 10%;
-    padding: 5px;
+    padding: 2%;
     margin: 0 auto;
 }
 p {
     background-color: burlywood;
     color: teal;
-    border-radius: 25px;
+    border-radius: 25%;
     text-align: center;
     font-size: 130%;
 }
 .Londyn {
-    border-radius: 25px;
+    border-radius: 25%;
 }
 a {
     color: salmon;
@@ -96,6 +95,6 @@ a:hover {
 }
 .space {
     background-color: teal;
-    padding: 25px;
+    padding: 2%;
     
 }
