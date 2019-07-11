@@ -1,6 +1,7 @@
 body {
     background-image: url("/WebsitePictures/stars.gif");
     background-size: cover; 
+    color: white;
 }
 header {
     background-color: white;
@@ -32,4 +33,10 @@ h1 {
     color: #004666;
     background-color: white;
     font-size: 500%;
+}
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
 }
