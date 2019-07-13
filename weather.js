@@ -6,7 +6,7 @@ loadData();
 
 function loadData() {
     
-    request.open('GET', 'http://api.openweathermap.org/data/2.5/forecast?zip=84037,us&units=imperial&cnt=5&mode=json&appid=e638afe8a8350ed39e29c8e16698e581');
+    request.open('GET', 'https://api.openweathermap.org/data/2.5/forecast?zip=84037,us&units=imperial&cnt=5&mode=json&appid=e638afe8a8350ed39e29c8e16698e581');
     request.onload = loadComplete;
     request.send();
 }
