@@ -22,9 +22,8 @@ function loadComplete(evt) {
         document.getElementById("currentTemp"+i).innerHTML = weatherData.list[i].main.temp;
         document.getElementById("conditions"+i).innerHTML = weatherData.list[i].weather[0].main;
         document.getElementById("conditionsDesc"+i).innerHTML = weatherData.list[i].weather[0].description;
-        if (weatherData.list[i].weather[0].main === "Clear") {
-            document.getElementById("picture"+i).src = "/Sun.jpg"
-        }
+
+    
         if (weatherData.list[i].weather[0].main === "Clouds") {
             document.getElementById("picture"+i).src = "http://openweathermap.org/img/wn/02d@2x.png"
         } 
